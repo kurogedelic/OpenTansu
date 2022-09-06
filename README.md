@@ -4,9 +4,10 @@
 # OpenTansu
 OpenTansu is open DIY Eurorack case project
 
+## 概要 (Japanese)
+pull ください。
 
-## Overview
-
+## Overview (English)
 This is a Eurorack case project made using a 3D printer.
 All are open source and the recipes are published. Musicians of the future will be able to start playing immediately by buying modules and power supplies.
 
